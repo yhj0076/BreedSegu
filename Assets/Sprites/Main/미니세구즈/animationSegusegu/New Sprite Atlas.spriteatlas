@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: -3848246694513763104, guid: 7918696a8e976e944a3df67adef5abee, type: 3}
+    - {fileID: -427091137309360132, guid: f9c22d816f88f394c8561f50469d6910, type: 3}
+    - {fileID: -8917718074170319135, guid: d03487c2b88c142488ae869a3ee920a0, type: 3}
+    - {fileID: -674212973102497433, guid: 6659359c682caf14f8d73c2ca6751695, type: 3}
+    - {fileID: 1250490442877881639, guid: 9eadbd63482650748b7bc8f91d28a4b3, type: 3}
+    - {fileID: 2550233001731549086, guid: 2dd2c48725d25fe4f8677fd8e0a0479c, type: 3}
+    - {fileID: 8318719856546482642, guid: e03d3df91be3211448ace54c3d6d4820, type: 3}
+    - {fileID: 1177961551783574445, guid: f3be448e7c815e84ea618609f732e469, type: 3}
+    totalSpriteSurfaceArea: 9294240
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -427091137309360132, guid: f9c22d816f88f394c8561f50469d6910, type: 3}
+  - {fileID: -8917718074170319135, guid: d03487c2b88c142488ae869a3ee920a0, type: 3}
+  - {fileID: 1250490442877881639, guid: 9eadbd63482650748b7bc8f91d28a4b3, type: 3}
+  - {fileID: 2550233001731549086, guid: 2dd2c48725d25fe4f8677fd8e0a0479c, type: 3}
+  - {fileID: 8318719856546482642, guid: e03d3df91be3211448ace54c3d6d4820, type: 3}
+  - {fileID: -3848246694513763104, guid: 7918696a8e976e944a3df67adef5abee, type: 3}
+  - {fileID: -674212973102497433, guid: 6659359c682caf14f8d73c2ca6751695, type: 3}
+  - {fileID: 1177961551783574445, guid: f3be448e7c815e84ea618609f732e469, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - segu_1_0
+  - segu_2-1_0
+  - segu_ce1_0
+  - segu_ce2_0
+  - segu_nyam_0
+  - segu_1-1_0
+  - segu_2-2_0
+  - segu_nyam_2_0
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
